@@ -1,0 +1,14 @@
+{
+  "name": "name-target-mismatch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "fetch": "ember-cli/ember-fetch#master"
+  },
+  "author": "",
+  "license": "ISC"
+}
